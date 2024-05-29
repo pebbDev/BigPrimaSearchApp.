@@ -1,0 +1,17 @@
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\bin\Debug\net8.0\BigPrimaSearchApp.exe
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\bin\Debug\net8.0\BigPrimaSearchApp.deps.json
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\bin\Debug\net8.0\BigPrimaSearchApp.runtimeconfig.json
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\bin\Debug\net8.0\BigPrimaSearchApp.dll
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\bin\Debug\net8.0\BigPrimaSearchApp.pdb
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\bin\Debug\net8.0\MPI.dll
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrimaSearchApp.csproj.AssemblyReference.cache
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrimaSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrimaSearchApp.AssemblyInfoInputs.cache
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrimaSearchApp.AssemblyInfo.cs
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrimaSearchApp.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrima.2BA645C8.Up2Date
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrimaSearchApp.dll
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\refint\BigPrimaSearchApp.dll
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrimaSearchApp.pdb
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\BigPrimaSearchApp.genruntimeconfig.cache
+E:\Kuliah\semester 6\Paralel\Tubes\BigPrimaSearchApp\BigPrimaSearchApp\BigPrimaSearchApp\obj\Debug\net8.0\ref\BigPrimaSearchApp.dll
